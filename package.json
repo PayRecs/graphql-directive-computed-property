@@ -14,7 +14,7 @@
     "postinstall": "npm build"
   },
   "peerDependencies": {
-    "graphql": "^0.13.2",
+    "graphql": "^0.13.2 || ^14.0.0",
     "graphql-tools": "^2.23.1 || ^4.0.0"
   },
   "devDependencies": {
